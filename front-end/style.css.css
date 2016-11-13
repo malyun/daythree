@@ -1,0 +1,188 @@
+#header{
+	height:60px;
+	width:100%;
+	margin-left:0%;
+	background-color:#76b900;
+	color:#FFF;
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+}
+#header h1 center {
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#nav{
+	height:50px;
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:20px;
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+	font-size:20px;
+	font-weight:bold;
+}
+#nav a {
+	background-color: #FFF;
+	word-spacing: 50px;
+	text-decoration: none;
+	color: #76b900;
+	padding: 10px;
+	text-align: center;
+}
+#nav a:hover {
+	background-color:#76b900;
+	word-spacing: 50px;
+	text-decoration:none;
+	color:#FFF;
+}
+
+#up{
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+	color:#76b90;
+	margin-left:10%;
+	height:auto;
+}
+#info h3 {
+	color:#060;
+}
+#info{
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+	color:#76b900;
+	margin-left:5%;
+	height:300px;
+}
+
+#footer{
+	clear:both;
+	margin-top:10px;
+	height:60px;
+	width:100%;
+	margin-left:0%;
+	background-color:#76b900;
+	color:#FFF;
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+
+}
+
+#footer a {
+	text-align: left;
+	word-spacing: 100px;
+	text-decoration: none;
+	padding: 10px;
+	text-align: center;
+	color:#FFF;
+	margin-right:20px;
+	font-size:18px;
+	word-spacing:2px;
+
+}
+
+#footer a :hover {
+	background-color: #FFF;
+	word-spacing: 50px;
+	text-decoration: none;
+	color: #76b900;
+	padding: 10px;
+}
+
+#footer p {
+	text-align:right;
+	margin-right:20px;
+}
+
+
+<style type="text/css">
+
+#header{
+	height:60px;
+	width:100%;
+	margin-left:0%;
+	background-color:#76b900;
+	color:#FFF;
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+}
+#header h1 center {
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#nav{
+	height:50px;
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:20px;
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+	font-size:20px;
+	font-weight:bold;
+}
+#nav a {
+	background-color: #FFF;
+	word-spacing: 50px;
+	text-decoration: none;
+	color: #76b900;
+	padding: 10px;
+	text-align: center;
+}
+#nav a:hover {
+	background-color:#76b900;
+	word-spacing: 50px;
+	text-decoration:none;
+	color:#FFF;
+}
+
+#up{
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+	color:#76b90;
+	margin-left:10%;
+	height:auto;
+}
+#info h3 {
+	color:#060;
+}
+#info{
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+	color:#76b900;
+	margin-left:5%;
+	height:300px;
+}
+
+#footer{
+	clear:both;
+	margin-top:10px;
+	height:60px;
+	width:100%;
+	margin-left:0%;
+	background-color:#76b900;
+	color:#FFF;
+	font-family:"Tekton Pro", "Tekton Pro Cond", "Tekton Pro Ext", Tahoma;
+
+}
+
+#footer a {
+	text-align: left;
+	word-spacing: 100px;
+	text-decoration: none;
+	padding: 10px;
+	text-align: center;
+	color:#FFF;
+	margin-right:20px;
+	font-size:18px;
+	word-spacing:2px;
+
+}
+
+#footer a :hover {
+	background-color: #FFF;
+	word-spacing: 50px;
+	text-decoration: none;
+	color: #76b900;
+	padding: 10px;
+}
+
+#footer p {
+	text-align:right;
+	margin-right:20px;
+}
+
+
